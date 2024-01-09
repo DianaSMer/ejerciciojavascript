@@ -86,7 +86,7 @@ console.log(nombresraros);
 //conversion de variables
 
 let edad = 140;
-let nombreRey = Aragorn;
+let nombreRey = "Aragorn";
 let condicion = true;
 
 let edadBoolean = Boolean(edad);
